@@ -1,0 +1,2 @@
+python StartChrome.py
+pause
